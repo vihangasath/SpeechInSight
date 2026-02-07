@@ -14,3 +14,6 @@ A complete end-to-end Speech Recognition system that segments long audio files (
    ```bash
    git clone [https://github.com/YOUR_USERNAME/SpeechInSight-Segmenter.git](https://github.com/YOUR_USERNAME/SpeechInSight-Segmenter.git)
    cd SpeechInSight-Segmenter
+2. **Download the Model:**
+   > ⚠️ **Note:** The model weights (`best_model.pth`) are not included in this repo due to size limits.
+   > Please download the model from (https://drive.google.com/drive/folders/1Grk9U1PUF_YknbdXqUxHF5vpkfPvvl4C?usp=sharing) and place it in the root folder.
