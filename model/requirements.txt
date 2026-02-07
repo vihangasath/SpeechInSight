@@ -1,0 +1,7 @@
+streamlit
+speechbrain
+torchaudio
+torch
+numpy
+pandas
+huggingface_hub<0.26.0
